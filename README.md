@@ -12,4 +12,9 @@
 4. `streamlit run app.py`
 
 ## Screenshots
-(add 1-2 screenshots here)
+
+### Main Application
+![Main Application](screenshots/screenshot1.png)
+
+### Project Output
+![Project Output](screenshots/screenshot2.png)
