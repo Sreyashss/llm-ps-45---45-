@@ -14,7 +14,7 @@
 ## Screenshots
 
 ### Main Application
-![Main Application](79810 Screenshot 2026-11-21 203052.png)
+![Main Application](screenshots/79810%20Screenshot%202026-11-21%20203052.png)
 
 ### Project Output
-![Project Output]( 111128 Screenshot 2026-11-21 203131.png)
+![Project Output](screenshots/111128%20Screenshot%202026-11-21%20203131.png)
